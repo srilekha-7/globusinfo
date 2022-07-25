@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-background {
+    background-color: #230487;
+    background-size: cover;
+}
+
+.button-1 {
+    color: white;
+    background-color: #230487;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 15px;
+    height: 40px;
+}
+
+.navbar-background {
+    background-color: black;
+    height: 70px;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.heading-bg {
+    background-color: #03fcf4;
+    font-size: 15px;
+    padding: 15px;
+}
+
+.heading2 {
+    font-size: 25px;
+    padding: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+.hr-line {
+    color: solid 1px #ffffff;
+}
+
+.button {
+    background-color: white;
+    color: #230487;
+    border: 0px;
+}
+
+.image1 {
+    height: 90vh;
+}
+
+.subheading {
+    background-color: #230487;
+}
+
+.program-heading {
+    background-color: #230487;
+    color: white;
+    text-align: center;
+}
+
+.hr-line-2 {
+    border: solid 1px #230487;
+}
+
+.program-container {
+    text-align: center;
+}
+
+.day1-par {
+    display: flex;
+    color: #ffffff;
+    justify-content: space-between;
+    background-color: #230487;
+}
